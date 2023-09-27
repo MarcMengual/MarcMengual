@@ -1,6 +1,8 @@
 <h1 align="center">El meu Portafoli</h1>
 <img src="github-header-image.png">
 
+<h3>Links Informatius</h3>
+
 - Estudiant Cicle Superior [DAM](https://copernic.cat/)
 
 - Desarrollant aplicacio Kotlin [selmeem](https://play.google.com/store/apps/details?id=cat.copernic.roomdecision.selmeem)
@@ -10,6 +12,8 @@
 - El meu curriculum: [Curriculum](https://drive.google.com/file/d/19FtRYPhNWjOTI1QGeoaevVrbyOEF4d3b/view?usp=sharing
 
 <hr>
+
+<h3>Breu Descripcio</h3>
 
 Soc un noi que actualment esta estudiant programació en el Cicle Superior DAM del Nicolau Copernic, tinc 1 any de practiques en empreses utilitzan MySQL i una aplicació en la PlayStore, m'agrada la tecnologia i el mon del gaming i exploro diferents vies per poder deicarme profesionalment en aquest mon.
 
