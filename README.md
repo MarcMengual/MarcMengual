@@ -5,7 +5,9 @@
 
 - Estudiant Cicle Superior [DAM](https://copernic.cat/)
 
-- Desarrollant aplicacio Kotlin [selmeem](https://play.google.com/store/apps/details?id=cat.copernic.roomdecision.selmeem)
+- Aplicacio Kotlin [selmeem](https://play.google.com/store/apps/details?id=cat.copernic.roomdecision.selmeem)
+
+- Presentació de l'aplicació: [Presentació](https://docs.google.com/presentation/d/1EkgS0PpFD_SA8P1CPPtQJqbjguw0ke33knU_GzihdaI/edit?usp=sharing)
 
 - Contacta amb mi: **mengualmarcgesti@gmail.com**
 
