@@ -5,7 +5,7 @@
 
 - Contacta amb mi: **mengualmarcgesti@gmail.com**
 
-- El meu curriculum: [Curriculum](https://drive.google.com/file/d/111Nczc5e30WKnYYpaSxkHhRvqYKKU3Or/view?usp=drive_link)
+- El meu curriculum: [Curriculum](https://drive.google.com/file/d/17cAyvmDolAMWCJCGojNiMb6TPnvxUhsI/view?usp=sharing)
 
 <hr>
 
