@@ -3,29 +3,17 @@
 
 <h3>Links Informatius</h3>
 
-- Estudiant Cicle Superior [DAM](https://copernic.cat/)
-
-- Aplicacio Kotlin [selmeem](https://play.google.com/store/apps/details?id=cat.copernic.roomdecision.selmeem)
-
-- Presentació de l'aplicació [Presentació](https://docs.google.com/presentation/d/1EkgS0PpFD_SA8P1CPPtQJqbjguw0ke33knU_GzihdaI/edit?usp=sharing)
-
 - Contacta amb mi: **mengualmarcgesti@gmail.com**
 
-- El meu curriculum: [Curriculum](https://drive.google.com/file/d/19FtRYPhNWjOTI1QGeoaevVrbyOEF4d3b/view?usp=sharing)
+- El meu curriculum: [Curriculum]([https://drive.google.com/file/d/19FtRYPhNWjOTI1QGeoaevVrbyOEF4d3b/view?usp=sharing](https://drive.google.com/file/d/111Nczc5e30WKnYYpaSxkHhRvqYKKU3Or/view?usp=sharing))
 
 <hr>
 
 <h3>Breu Descripcio</h3>
 
-Soc un noi que actualment esta estudiant programació en el Cicle Superior DAM del Nicolau Copernic, tinc 1 any de practiques en empreses utilitzan MySQL i una aplicació en la PlayStore, m'agrada la tecnologia i el mon del gaming i exploro diferents vies per poder deicarme profesionalment en aquest mon.
+M'agrada la tecnologia i el mon del gaming i exploro diferents vies per poder deicarme profesionalment en aquest mon. Tinc experiencia amb el Manteniment tant de Hardware com Software en Ordinadors, experiencia en varis llenguatges i programes com MySQL, Java, Unity i C#. Constantment en adaptació i amb coneixement per utilitzar la IA com un eina per al treball.
 
 <hr>
-
-<h3 align="left">Xarxes Socials:</h3>
-<p align="left">
-<a href="https://twitter.com/selempo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="selempo" height="30" width="40" /></a>
-<a href="https://instagram.com/selempo_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="selempo_g" height="30" width="40" /></a>
-</p>
 
 <hr>
 
