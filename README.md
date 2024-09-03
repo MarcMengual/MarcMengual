@@ -11,7 +11,7 @@
 
 <h3>Breu Descripcio</h3>
 
-M'agrada la tecnologia i el mon del gaming i exploro diferents vies per poder deicarme profesionalment en aquest mon. Tinc experiencia amb el Manteniment tant de Hardware com Software en Ordinadors i diferents dispositius, experiencia en varis llenguatges i programes com MySQL, Java, Unity i C#. Constantment en adaptació i amb coneixement per utilitzar la IA com un eina per al treball.
+Aficionat a l'entorn tecnologic (empresarial/gaming/casual), exploro diferents vies per poder deicarme profesionalment en aquest mon. Tinc experiencia amb el Manteniment tant de Hardware com Software en Ordinadors i diferents dispositius, experiencia en varis llenguatges i programes com MySQL, Java, Unity i C#. Constantment en adaptació i amb coneixement per utilitzar la IA com un eina per al treball.
 
 <hr>
 
