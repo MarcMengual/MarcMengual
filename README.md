@@ -15,6 +15,12 @@ M'agrada la tecnologia i el mon del gaming i exploro diferents vies per poder de
 
 <hr>
 
+<h3>Projectes Treballats</h3>
+
+- [UrFungi](https://github.com/Voldwyce/Urfungi)
+
+Una aplicació amb caracteristiques d'una xarxa social creada en un projecte academic amb intencions de fer un rediseny amb noves funcionalitats i aspecte. L'aplicació compte amb funcionalitats com un sistema de posts amb likes i comentaris, un xat privat, un sistema d'amics, questionaris amb puntuació global, interacció amb diferents API's, etc.
+
 <hr>
 
 <h3 align="left">Llenguatges i eines utilitzades:</h3>
