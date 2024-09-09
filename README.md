@@ -1,4 +1,3 @@
-<h1 align="center">Sobre mi</h1>
 <img src="github-header-image.png">
 
 <h3>Links Informativos</h3>
