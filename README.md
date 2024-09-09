@@ -1,4 +1,4 @@
-<h1 align="center">El meu Portafoli</h1>
+<h1 align="center">Sobre mi</h1>
 <img src="github-header-image.png">
 
 <h3>Links Informativos</h3>
