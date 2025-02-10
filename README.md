@@ -28,6 +28,10 @@ Me veo como una persona curiosa, que no solo disfruta trabajando con la tecnolog
 
 Una aplicación con caracteristicas de una red social creada en un proyecto academico con intenciones de hacer un rediseño junto a nuevas funcionalidades y interfaz. La aplicación tiene funcionalidades como un sistema de posts con likes y comentarios, un chat privado, un sistema de amigos, cuestionarios con puntuación global, interacción con diferentes APIs.
 
+- [Selmeems](https://github.com/MarcMengual/Selmeem)
+
+Una red social creada en un proyecto academico, la aplicación se especializa en tener un perfil con personalizaciones y publicacion de imagenes, estas publicaciones pueden recibir tanto likes como comentarios.
+
 <hr>
 
 <h3 align="left">Lenguajes y herramientas utilitzadas:</h3>
